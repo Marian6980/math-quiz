@@ -1,0 +1,10 @@
+C:\Users\banum\Desktop\proiect\mathquiz\bin\Debug\mathquiz.exe.config
+C:\Users\banum\Desktop\proiect\mathquiz\bin\Debug\mathquiz.exe
+C:\Users\banum\Desktop\proiect\mathquiz\bin\Debug\mathquiz.pdb
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.csproj.AssemblyReference.cache
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.Form1.resources
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.Properties.Resources.resources
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.csproj.GenerateResource.cache
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.csproj.CoreCompileInputs.cache
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.exe
+C:\Users\banum\Desktop\proiect\mathquiz\obj\Debug\mathquiz.pdb
